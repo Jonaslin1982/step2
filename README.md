@@ -12,7 +12,7 @@ This repository is dedicated to sharing AI-driven solutions, industry case studi
 To view the content locally:
 
 ```bash
-git clone https://github.com/Jonaslin1982/step2.git
+git clone https://github.com/Jonaslin1982/step2.github.io.git
 cd your-repo-name
 # Open index.html in your browser to explore the content
 ```
